@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="As test analyst" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-07T04:56:56" hostname="CHMEPPF180YVC" time="25.285">
+  <properties/>
+  <testcase name="place a new order" classname="As test analyst" time="25.285"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/sosorioe/OneDrive%20-%20Choucair%20Testing/Reto_Automatizacion/Reto_Automatizacion/Reto_Automatizacion/src/test/resources/features/order.feature
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+place a new order(as-test-analyst;place-a-new-order)
+--------------------------------------------------------------------------------
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Using automatically driver download
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sosorioe\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.driver: src/test/resources/drivers/..., chrome.switches: --lang=es, --homepage=about..., driver: chrome, goog:chromeOptions: {args: [--lang=es, --homepage=about:blank, --disable-popup-blocking, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --incognito], extensions: [], prefs: {safebrowsing.enabled: false}}, loggingPrefs: org.openqa.selenium.logging..., timeouts.implicitlywait: 20000, timeouts.pageLoadTimeout: 20000, timeouts.setScriptTimeout: 20000}
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 7528
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+dic 06, 2022 11:57:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+place a new order
+----------------------------------------------------------------------
+]]></system-err>
+</testsuite>
